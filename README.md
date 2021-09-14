@@ -1,5 +1,5 @@
 ## **Oi! Tudo bem?** 👋 😁 
-
+<img align="right" alt="biagif" src="https://cdn.discordapp.com/attachments/394477859453796364/887395542588604416/biagif.gif">
 Eu sou a Bia e se você está aqui, pode querer saber algo sobre mim, então vou te dar uma ajudinha.
 Ai embaixo tem um resumo que pode ser útil. Se não for o caso, pula para a parte que atenda o que você veio buscar!
 
@@ -34,9 +34,17 @@ Estou simplesmente apaixonada pelo potencial que o Power BI possibilita na conta
 Procuro uma recolocação no mercado na área de tecnologia, preferencialmente em modalidade remota.
 
 ### 🌎 Como me achar por ai:
-Minha rede profissional: linkedin.com/in/biagalvao01
+Minha rede profissional:
 
-Minha rede pessoal: @biabgv
+<a href="https://www.linkedin.com/in/biagalvao01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+Minha rede pessoal: 
+
+<a href="https://instagram.com/biabgv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+Quer me mandar um e-mail?
+
+<a href = "mailto:galvao.bgv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### 📈 Meus projetos guardados aqui:
 Essa parte está em construção... 
