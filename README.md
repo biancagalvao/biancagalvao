@@ -1,7 +1,5 @@
 ## **Oi! Tudo bem?** 👋 😁 
 
-![Github_Logo](bia3.jpg)
-
 Eu sou a Bia e se você está aqui, pode querer saber algo sobre mim, então vou te dar uma ajudinha.
 Ai embaixo tem um resumo que pode ser útil. Se não for o caso, pula para a parte que atenda o que você veio buscar!
 
@@ -49,4 +47,5 @@ Essa parte está em construção...
 
 <!--
 **biancagalvao/biancagalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github_Logo](xxx.jpg)
 -->
