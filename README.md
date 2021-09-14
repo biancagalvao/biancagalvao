@@ -1,6 +1,6 @@
 ### **Oi! Tudo bem?** 👋 😁 
 
-![Github_Logo](bia.png)
+![Github_Logo](bia2.png)
 
 
 <!--
