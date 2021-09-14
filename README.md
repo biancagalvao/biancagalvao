@@ -37,6 +37,7 @@ Procuro uma recolocação no mercado na área de tecnologia, preferencialmente e
 
 ### 🌎 Como me achar por ai:
 Minha rede profissional: linkedin.com/in/biagalvao01
+
 Minha rede pessoal: @biabgv
 
 ### 📈 Meus projetos guardados aqui:
