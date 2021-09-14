@@ -1,5 +1,8 @@
 ### **Oi! Tudo bem?** 👋 😁 
 
+![Github_Logo](bia.png)
+
+
 <!--
 **biancagalvao/biancagalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
