@@ -47,7 +47,10 @@ Quer me mandar um e-mail?
 <a href = "mailto:galvao.bgv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### 📈 Meus projetos guardados aqui:
-Essa parte está em construção... 
+
+<a href ="https://github.com/biancagalvao/projetos_de_estudo" target="_blank"><img src="https://user-images.githubusercontent.com/90691653/134819002-9b41b151-0cc4-4f2e-85d3-ac4409ce7bd9.png" target="_blank"></a>
+
+
 
 
 ![fundoDS](fundoDS.jpeg)
