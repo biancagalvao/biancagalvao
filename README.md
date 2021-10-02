@@ -18,20 +18,14 @@ Experiência em idealizar possíveis cenários a fim de aplicar ferramentas de p
 Entre os meus pontos fortes está a facilidade em aprender coisas novas e o imenso prazer que tenho pelo estudo (meu hobby favorito).
 
 ### 💼 O que eu faço atualmente: 
-Atualmente eu faço parte do SESMT dos Correios/RJ e atuo diretamente em todas os Programas de Prevenção inerentes ao setor de SST. 
-Entre as minhas responsabilidades está toda elaboração e controle documental da atuação técnica do setor, bem como, dos treinamentos relacionados.
-Também acompanho os processos judiciais nos quais a empresa participa, que tenham ligação com o SESMT de alguma forma.
-No campo da Ergonomia, atuo na elaboração de todas as etapas da Análise Ergonômica do Trabalho, com respectiva emissão de AET seja para acompanhamento e gestão interna das empresas ou para resposta/realização de perícia Judicial, visando a adequação dos ambientes, equipamentos e tarefas do trabalho às necessidades psicofisiológicas dos colaboradores.
-Em suma, meu papel é prever tudo que pode dar errado e evitar que isso aconteça!
-Tudo isso envolve responsabilidade técnica por documentos complexos, muito trabalho em equipe e liderança de equipe multidisciplinar.
+Atualmente eu faço parte do SESMT dos Correios/RJ e atuo diretamente em todas os Programas de Prevenção inerentes ao setor de SST e Ergonomia. 
+Meu papel é prever tudo que pode dar errado e evitar que isso aconteça! Pensa que não leva análise de dados nisso?! Leva muito!
 
 ### 🧠 O que eu ando estudando:
 Tudo que é relacionado à área de Ciência de dados! 
 Recentemente fiz vários cursos online sobre linguagens de programação (Python, R, SQL), machine learning, Power BI, Big data, Bancos de dados, entre outros.
 Estou simplesmente apaixonada pelo potencial que o Power BI possibilita na contagem da história dos dados e como os dados são uma poderosa ferramenta na previsão de cenários complexos. 
 
-### 💪 Meu objetivo:
-Procuro uma recolocação no mercado na área de tecnologia, preferencialmente em modalidade remota.
 
 ### 🌎 Como me achar por ai:
 Minha rede profissional:
